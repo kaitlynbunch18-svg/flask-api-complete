@@ -1,2 +1,5 @@
 flask  
-gunicorn 
+gunicorn  
+sqlalchemy  
+psycopg2-binary  
+requests 
